@@ -5,7 +5,7 @@ main()
     float a, b, c, d = 0;
     double x1, x2, imaginair;
 
-    printf("MENCARI AKAR AKAR PERSAMAAN KUADARAT a+bx+c=0\n");
+    printf("MENCARI AKAR AKAR SPERSAMAAN KUADARAT a+bx+c=0\n");
     printf("\n Masukan nilai a :");
     scanf("%f", &a);
     printf("Masukan nilai b :");
